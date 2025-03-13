@@ -1,5 +1,5 @@
 # DA4-WS5-PBI-NHS
-Not suitable for other cohorts, keep as private. NHS futures is not public
+Aplying NHS Style Guide
 
 
 Start with intro to NHS Data Viz community of Practice
