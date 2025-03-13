@@ -14,7 +14,7 @@ These issues whould have been sorted out with the previous workshop.
 1. WS5 DS1 is the completed dashboard from the last workshop. Ask them to open this immediately
 1. WS5 DS2 is a dashboard that has all margins and gaps done, waiting for fonts, shadows and padding
 
-![alt text](image.png)
+![alt text](images\image.png)
 
 
 ### Goal
@@ -23,11 +23,11 @@ The students could of course apply this to their own dashoards instead.
 
 From the original 
 
-![alt text](image-3.png)
+![alt text](images\image-3.png)
 
 To
 
-![alt text](image-29.png)
+![alt text](images\image-29.png)
 
 
 # Slide 10: Intro to the Data Viz Community of Practice
@@ -37,12 +37,12 @@ This could be useful to know moving forward, check if anyone already knows some 
 
 
 
-![alt text](image-2.png)
+![alt text](images\image-2.png)
 
 https://p-jacques.github.io/data-viz-community-of-practice/
 
 
-![alt text](image-4.png)
+![alt text](images\image-4.png)
 
 https://p-jacques.github.io/data-viz-community-of-practice/change_log/
 
@@ -56,7 +56,7 @@ https://p-jacques.github.io/data-viz-community-of-practice/change_log/
     1. Alfa: testing with a small user group
     1. Beta: With a larger user group
 
-![alt text](image-7.png)
+![alt text](images\image-7.png)
 
 https://p-jacques.github.io/data-viz-community-of-practice/dashboard_lifecycle/
 
@@ -65,7 +65,7 @@ https://p-jacques.github.io/data-viz-community-of-practice/dashboard_lifecycle/
 Talk through the `Planning Cycle` making reference to the `Lifecycle` and asking for examples from the students.
 
 
-![alt text](image-6.png)
+![alt text](images\image-6.png)
 
 https://p-jacques.github.io/data-viz-community-of-practice/dashboard_lifecycle/planning_cycle/
 
@@ -79,7 +79,7 @@ Lofi sketches can be done simply on paper or drawing basic shapes in Word or Exc
 
 __Note:__ Specialised Apps such as Mokkup.ai exist also
 
-![alt text](image-8.png)
+![alt text](images\image-8.png)
 
 https://www.mokkup.ai/
 
@@ -93,7 +93,7 @@ Used for:
 1. Gather immediate feedback from stakeholders
 1. Identify potential usability issues
 
-![alt text](image-9.png)
+![alt text](images\image-9.png)
 
 https://medium.com/@mokkup/whats-the-difference-between-low-fidelity-and-high-fidelity-dashboard-wireframes-0afec8397ebc
 
@@ -107,7 +107,7 @@ Good for:
 1. Key stakeholder feedback
 1. Developer handoff
 
-![alt text](image-10.png)
+![alt text](images\image-10.png)
 
 https://medium.com/@mokkup/whats-the-difference-between-low-fidelity-and-high-fidelity-dashboard-wireframes-0afec8397ebc
 
@@ -119,7 +119,7 @@ Navigate to the Style guide Rules page via either
 1. `Get started` or
 1. `Style Guide` Rules
 
-![alt text](image-1.png)
+![alt text](images\image-1.png)
 
 
 
@@ -140,15 +140,15 @@ Data to ink ratio does not have a link, but it appears to be taken from this art
 
 Ask them to come write down ideas on how some of these could be empoyed to dashboards they have already made, will make, including what was done in the last workshop.
 
-![alt text](image-11.png)
+![alt text](images\image-11.png)
 
 
 
-![alt text](image-12.png)
+![alt text](images\image-12.png)
 
 ## NHS Logo - Back to style guide rules
 
-![alt text](image-13.png)
+![alt text](images\image-13.png)
 
 https://p-jacques.github.io/data-viz-community-of-practice/dashboard_design/quick_summary/
 
@@ -162,7 +162,7 @@ Import this logo to PowerBi.
 1. Choose `Image`
 1. Select `RGB Blue` logo
 
-![alt text](image-14.png)
+![alt text](images\image-14.png)
 
 When this logo is imported, PowerBI automatically makes it quite large.
 
@@ -179,7 +179,7 @@ In order to follow the guidelines we need to:
 
 __Note:__ I noticed some glitchy behaviour here where te Width would snap to 96. Seems to happen when you try to drag the logo to a corner.
 
-![alt text](image-15.png)
+![alt text](images\image-15.png)
 
 ### Positioning the logo
 The logo should be 32 pixels from the edges of the page.\
@@ -193,7 +193,7 @@ It is worth noting the resolution we are working with in order to ensure we get 
 1. Select white space on the page
 1. Note the aspect ratio and resolution, this can help set the correct positions.
 
-![alt text](image-20.png)
+![alt text](images\image-20.png)
 
 
 ### Positioning the logo
@@ -206,7 +206,7 @@ It is worth noting the resolution we are working with in order to ensure we get 
     1. `Vertical` to 32 
 
 
-![alt text](image-16.png)
+![alt text](images\image-16.png)
 
 
 ## Challenge - Back to slide
@@ -214,7 +214,7 @@ It is worth noting the resolution we are working with in order to ensure we get 
 
 With 32 Pixel borders all around the dashboard looks like this:
 
-![alt text](image-22.png)
+![alt text](images\image-22.png)
 
 Move charts to get the desired border. \
 Select the slicer line chart and bar chart and set horizontal position to 32. \
@@ -243,7 +243,7 @@ The students will address at least 1,3 and 7 in the breakout room.
 Ask the students to apply as many of the general layout rules as the can.
 The rest of the charts will need to be resized and moved around a little bit to accomodate.
 
-![alt text](image-21.png)
+![alt text](images\image-21.png)
 
 
 Below is the position and size of the bar chart.\
@@ -251,7 +251,7 @@ Below is the position and size of the bar chart.\
   224 + 464 = 688
 
 
-![alt text](image-25.png)
+![alt text](images\image-25.png)
 
 ## Typography
 
@@ -263,7 +263,7 @@ How to set default fonts in PowerBI
 1. Select `View` in the top ribbon
 1. Select `Customise Current Theme` in the theme dropdown menu
 
-![alt text](image-23.png)
+![alt text](images\image-23.png)
 
 Set all defaults text to Ariel
 
@@ -272,7 +272,7 @@ Set all defaults text to Ariel
 1. Select the desired font
 1. Apply the settings
 
-![alt text](image-24.png)
+![alt text](images\image-24.png)
 
 
 ## Second breakout room
@@ -288,7 +288,7 @@ Address Fonts, padding and shadows.
 1. `Padding` menu, 16px for all sides
 
 
-![alt text](image-26.png)
+![alt text](images\image-26.png)
 
 ## Shadows
 
@@ -306,4 +306,4 @@ Address Fonts, padding and shadows.
     1. Transparancy, 2
 
 
-![alt text](image-27.png)
+![alt text](images\image-27.png)
