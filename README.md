@@ -14,7 +14,7 @@ These issues whould have been sorted out with the previous workshop.
 1. WS5 DS1 is the completed dashboard from the last workshop. Ask them to open this immediately
 1. WS5 DS2 is a dashboard that has all margins and gaps done, waiting for fonts, shadows and padding
 
-![alt text](images\image.png)
+![alt text](images/image.png)
 
 
 ### Goal
@@ -23,7 +23,7 @@ The students could of course apply this to their own dashoards instead.
 
 From the original 
 
-![alt text](images\image-3.png)
+![alt text](images/image-3.png)
 
 To
 
@@ -139,6 +139,8 @@ Data to ink ratio does not have a link, but it appears to be taken from this art
  https://www.codeconquest.com/blog/data-ink-ratio-explained-with-example/
 
 Ask them to come write down ideas on how some of these could be empoyed to dashboards they have already made, will make, including what was done in the last workshop.
+
+# Insert slide for conversation after students have read key principles
 
 ![alt text](images\image-11.png)
 
